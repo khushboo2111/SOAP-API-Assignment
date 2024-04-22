@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g2gIbcAIlxFtnueoVHFK6bwH8Y9pL0yR1CC24V8v6Og=",
+  "Source": "CalculatorSOAPAPI",
+  "BasePath": "_content/CalculatorSOAPAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
